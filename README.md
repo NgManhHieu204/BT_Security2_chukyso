@@ -27,3 +27,30 @@
 - OpenSSL, iText7/BouncyCastle, pypdf/PyPDF2.
 - Tham khảo chuẩn PDF: ISO 32000-2 (PDF 2.0) và ETSI EN 319 142 (PAdES).
 _____
+
+1. Chuẩn bị:
+
+- Chuẩn bị 1 file pdf gốc:
+
+<img width="448" height="82" alt="image" src="https://github.com/user-attachments/assets/77dcb272-78af-41a1-bb49-55bad1497468" />
+
+- Chuẩn bị 1 ảnh chữ ký:
+
+<img width="1036" height="627" alt="image" src="https://github.com/user-attachments/assets/0e70ced5-c650-43b1-96da-d53386dbdb41" />
+
+- Cài đặt các thư viện cần thiết
+
+<img width="869" height="400" alt="image" src="https://github.com/user-attachments/assets/169cd4ff-3351-42c2-810f-db1ad3aa8fa6" />
+
+2. Các bước thực hiện:
+
+- Tạo chứng chỉ và khóa:
+
+<img width="1409" height="969" alt="image" src="https://github.com/user-attachments/assets/3b566219-d3af-4fd4-9b8f-986c19e1c128" />
+
+--> Tạo thành công:
+
+<img width="454" height="107" alt="image" src="https://github.com/user-attachments/assets/d31114fd-3d84-494c-b641-51649fdaf21c" />
+
+- Chạy sign_document để ký:
+
