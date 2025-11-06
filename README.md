@@ -54,3 +54,15 @@ _____
 
 - Chạy sign_document để ký:
 
+<img width="1392" height="748" alt="image" src="https://github.com/user-attachments/assets/22afc14e-2fed-47b4-b6bc-fac317e16143" />
+
+--> Ký thành công:
+
+<img width="1871" height="984" alt="image" src="https://github.com/user-attachments/assets/a5f533d8-0052-49a2-a1fa-02478e7037b7" />
+
+- Tạo file giả mạo: chạy tamper_document.py để tạo file giả mạo là tampered.pdf
+
+<img width="1919" height="991" alt="image" src="https://github.com/user-attachments/assets/65e4875c-8176-4110-be59-6f80837805be" />
+
+- Xác minh: chạy verify_signature.py để kiểm tra:
+
